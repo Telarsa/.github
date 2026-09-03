@@ -1,0 +1,14 @@
+<!--
+  Working reconstruction of the Telarsa symbol, traced from the approved
+  concept export. Replace with the delivered Affinity master
+  (telarsa-symbol.svg) when it arrives — see the export guide in
+  telarsa-project/assets/logo-telarsa/.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <g id="primary" fill="#111111">
+    <path d="M96 85 H404 V148 H284 V408 L216 343 V148 H96 Z"/>
+  </g>
+  <g id="accent" fill="#D74832">
+    <path d="M284 338 L361 410 H284 Z"/>
+  </g>
+</svg>
