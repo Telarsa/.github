@@ -16,8 +16,4 @@ calendar and reading direction most software gets wrong.
 
 [**telarsa.com**](https://telarsa.com) · [hello@telarsa.com](mailto:hello@telarsa.com) · [Products](https://telarsa.com/en/products) · [Work](https://telarsa.com/en/work) · [Careers](https://telarsa.com/en/company/careers)
 
-<br>
-
-<sub lang="fa" dir="rtl">تلارسا · یک شرکت فناوری که محصولات دیجیتال می‌سازد</sub>
-
 </div>
