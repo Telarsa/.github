@@ -1,9 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Telarsa/.github/main/profile/telarsa-mark-dark.svg">
-  <img src="https://raw.githubusercontent.com/Telarsa/.github/main/profile/telarsa-mark.svg" width="72" alt="">
-</picture>
+<img src="https://raw.githubusercontent.com/Telarsa/.github/main/profile/telarsa-logo.png" width="120" alt="Telarsa">
 
 # Telarsa
 
