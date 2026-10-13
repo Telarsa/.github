@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Telarsa/.github/main/profile/telarsa-logo.png" width="120" alt="Telarsa">
+<img src="https://raw.githubusercontent.com/Telarsa/.github/main/profile/telarsa-logo.png" width="120" alt="Telarsa" style="border-radius: 18px;">
 
 # Telarsa
 
