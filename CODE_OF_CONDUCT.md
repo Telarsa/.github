@@ -7,5 +7,5 @@ means: no harassment, no discrimination, no personal attacks, and no publishing
 of anyone's private information. Disagreement is fine and expected; contempt is
 not.
 
-If something crosses that line, write to [hello@telarsa.com](mailto:hello@telarsa.com).
+If something crosses that line, write to [contact@telarsa.com](mailto:contact@telarsa.com).
 Reports are read by a person, kept confidential, and acted on.

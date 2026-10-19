@@ -11,6 +11,6 @@ between people, businesses and opportunities simpler, smarter and more
 dependable. Persian-first by design: built for readers whose script, digits,
 calendar and reading direction most software gets wrong.
 
-[**telarsa.com**](https://telarsa.com) · [hello@telarsa.com](mailto:hello@telarsa.com) · [Products](https://telarsa.com/en/products) · [Work](https://telarsa.com/en/work) · [Careers](https://telarsa.com/en/company/careers)
+[**telarsa.com**](https://telarsa.com) · [contact@telarsa.com](mailto:contact@telarsa.com) · [Products](https://telarsa.com/en/products) · [Work](https://telarsa.com/en/work) · [Careers](https://telarsa.com/en/company/careers)
 
 </div>
